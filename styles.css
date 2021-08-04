@@ -1,0 +1,22 @@
+.body {
+    background-color: black;
+    color: white;
+}
+
+.tipo {
+    display: flex;
+    align-items: center;
+    margin: 100px 50px 100px 50px;
+}
+
+.paragrafo {
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.titulo {
+    align-items: center;
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
