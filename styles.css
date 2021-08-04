@@ -20,3 +20,20 @@
     margin-left: 100px;
     margin-bottom: 20px;
 }
+
+.tempo {
+    margin-left: 450px;
+}
+
+.poema {
+    display: flex;
+    align-items: center;
+    margin: 30px 100px 100px 60px;
+    font-size: 23px;
+}
+
+.bodyy {
+    background-color: burlywood;
+}
+
+.rodape {}
