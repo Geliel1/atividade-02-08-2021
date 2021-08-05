@@ -37,3 +37,16 @@
 }
 
 .rodape {}
+
+.alinhar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+#inicio {
+    font-size: 25px;
+}
+
+.artigo {}
